@@ -2,7 +2,7 @@
 
 Liferay FLATLY-THEME is based on [Bootswatch](https://bootswatch.com/flatly/).
 
-![Alt text](/src/images/thumbnail.png?raw=true "Flatly Theme")
+<img src="/src/images/screenshot.png" alt="Flatly Theme" width="400px">
 
 ### Benefits
 
@@ -21,6 +21,6 @@ Liferay FLATLY-THEME is based on [Bootswatch](https://bootswatch.com/flatly/).
  
 2. change directory to our repo:
  ```bash
- flatly-theme
+ cd flatly-theme
  ```
  
