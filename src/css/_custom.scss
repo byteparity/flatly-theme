@@ -1,0 +1,17 @@
+/* These inject tags are used for dynamically creating imports for themelet styles, you can place them where ever you like in this file. */
+
+/* inject:imports */
+/* endinject */
+
+/* This file allows you to override default styles in one central location for easier upgrade and maintenance. */
+@import "flatly-theme/bootswatch.scss";
+
+#heading, .portlet-breadcrumb .portlet-title-text{
+    display: none;
+}
+.navbar-default .navbar-nav > .selected > a,
+.navbar-default .navbar-nav > .selected > a:hover,
+.navbar-default .navbar-nav > .selected > a:focus {
+    color: #fff;
+    background-color: #1a242f;
+}
