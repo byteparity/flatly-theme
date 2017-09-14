@@ -1,6 +1,8 @@
 # Liferay >= 7.0 - FLATLY-THEME
 
-Liferat FLATLY-THEME is based on [Bootswatch](https://bootswatch.com/flatly/).
+Liferay FLATLY-THEME is based on [Bootswatch](https://bootswatch.com/flatly/).
+
+![Alt text](/src/images/thumbnail.png?raw=true "Flatly Theme")
 
 ### Benefits
 
